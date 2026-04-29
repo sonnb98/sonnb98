@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Shopify+App+Developer+%F0%9F%9B%8D%EF%B8%8F;CRM+%7C+WordPress+%7C+AI+Integration+%F0%9F%A4%96;Open+for+Freelance+%F0%9F%9A%80;No+challenge+too+great+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Shopify+App+Developer+%F0%9F%9B%8D%EF%B8%8F;WordPress+%7C+Laravel+%7C+AI+Integration+%F0%9F%A4%96;Open+for+Freelance+%F0%9F%9A%80;No+challenge+too+great+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -19,18 +19,27 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Ryan Nguyen
-focus: Shopify App Development
-domains:
-  - Shopify
-  - WordPress
-  - CRM Systems
-  - AI Integration
-status: Open for Freelance 🚀
-contact: it.sonnb@gmail.com
-motto: Accept every challenge, ship every project
+<div align="center">
+
+| | |
+|---|---|
+| 🛍️ **Focus** | Shopify App Development |
+| 🌐 **Stack** | Shopify · WordPress · Laravel · AI Integration |
+| 💼 **Status** | Open for Freelance |
+| 📍 **Based in** | Vietnam 🇻🇳 |
+| ⚽ **Hobbies** | Thể thao · Đá bóng · Cầu lông |
+| 📬 **Contact** | it.sonnb@gmail.com |
+
+</div>
+
+<div align="center">
+
 ```
+💡 Multi-domain developer — từ e-commerce đến AI integration.
+   Nhận task khó, ship nhanh, không bỏ cuộc.
+```
+
+</div>
 
 ---
 
@@ -44,21 +53,31 @@ motto: Accept every challenge, ship every project
 
 **Languages**
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frameworks & Tools**
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-**CRM & Integrations**
+---
 
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+## ⚽ When I'm Not Coding
+
+<div align="center">
+
+![Football](https://img.shields.io/badge/⚽%20Football-Bóng%20đá-1a7f37?style=for-the-badge)
+![Badminton](https://img.shields.io/badge/🏸%20Badminton-Cầu%20lông-0066cc?style=for-the-badge)
+![Sports](https://img.shields.io/badge/🏃%20Sports-Thể%20thao-e05d2a?style=for-the-badge)
+
+*Chơi thể thao để nạp năng lượng — rồi quay lại code tiếp* 😄
+
+</div>
 
 ---
 
