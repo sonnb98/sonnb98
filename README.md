@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Shopify+App+Developer+%F0%9F%9B%8D%EF%B8%8F;WordPress+%7C+Laravel+%7C+AI+Integration+%F0%9F%A4%96;Open+for+Freelance+%F0%9F%9A%80;Bring+the+challenge.+I'm+already+here.+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Shopify+App+Developer+%F0%9F%9B%8D%EF%B8%8F;WordPress+%7C+Laravel+%7C+AI+Integration+%F0%9F%A4%96;Open+for+Freelance+%F0%9F%9A%80;Bring+the+challenge.+I%27m+already+here.+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -19,17 +19,16 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-
-|---|---|
-| 💼 **Role** | Developer — Full-stack, multi-domain |
-| 🛍️ **Focus** | Shopify App Development |
-| 🔍 **Day-to-day** | Building features · Code review · Researching solutions |
-| 🌐 **Stack** | Shopify · WordPress · Laravel · AI Integration |
-| 🎮 **Off hours** | Gaming · Football · Badminton |
-| 🚀 **Status** | Open for Freelance |
-| 📍 **Based in** | Vietnam 🇻🇳 |
-| 📬 **Contact** | it.sonnb@gmail.com |
-
+<table>
+  <tr><td>💼 <b>Role</b></td><td>Developer — Full-stack, multi-domain</td></tr>
+  <tr><td>🛍️ <b>Focus</b></td><td>Shopify App Development</td></tr>
+  <tr><td>🔍 <b>Day-to-day</b></td><td>Building features · Code review · Researching solutions</td></tr>
+  <tr><td>🌐 <b>Stack</b></td><td>Shopify · WordPress · Laravel · AI Integration</td></tr>
+  <tr><td>🎮 <b>Off hours</b></td><td>Gaming · Football · Badminton</td></tr>
+  <tr><td>🚀 <b>Status</b></td><td>Open for Freelance</td></tr>
+  <tr><td>📍 <b>Based in</b></td><td>Vietnam 🇻🇳</td></tr>
+  <tr><td>📬 <b>Contact</b></td><td>it.sonnb@gmail.com</td></tr>
+</table>
 </div>
 
 ---
