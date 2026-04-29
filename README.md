@@ -20,7 +20,6 @@
 
 <div align="center">
 
-| | |
 |---|---|
 | 💼 **Role** | Developer — Full-stack, multi-domain |
 | 🛍️ **Focus** | Shopify App Development |
@@ -41,6 +40,7 @@
 
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento%202-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 ![Liquid](https://img.shields.io/badge/Liquid-95BF48?style=for-the-badge&logo=shopify&logoColor=white)
 
 **Languages**
