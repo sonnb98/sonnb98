@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Shopify+App+Developer+%F0%9F%9B%8D%EF%B8%8F;WordPress+%7C+Laravel+%7C+AI+Integration+%F0%9F%A4%96;Open+for+Freelance+%F0%9F%9A%80;Bring+the+challenge.+I%27m+already+here.+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonnb98&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
 <br/>
 
 <div align="center">
@@ -80,7 +84,15 @@
 </div>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonnb98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonnb98&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api?username=sonnb98&theme=dark" alt="Snake animation" />
 </div>
 
 ---
