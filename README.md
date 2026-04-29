@@ -3,15 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Shopify+App+Developer+%F0%9F%9B%8D%EF%B8%8F;WordPress+%7C+Laravel+%7C+AI+Integration+%F0%9F%A4%96;Open+for+Freelance+%F0%9F%9A%80;No+challenge+too+great+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Shopify+App+Developer+%F0%9F%9B%8D%EF%B8%8F;WordPress+%7C+Laravel+%7C+AI+Integration+%F0%9F%A4%96;Open+for+Freelance+%F0%9F%9A%80;Bring+the+challenge.+I'm+already+here.+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
 
-> *"Thử thách chưa đến thì thôi,*
-> *Đã đến thì nhận — không rời không lui."*
+> *"Challenges may come and go — I stay and fight."*
 
 </div>
 
@@ -23,21 +22,14 @@
 
 | | |
 |---|---|
+| 💼 **Role** | Developer — Full-stack, multi-domain |
 | 🛍️ **Focus** | Shopify App Development |
+| 🔍 **Day-to-day** | Building features · Code review · Researching solutions |
 | 🌐 **Stack** | Shopify · WordPress · Laravel · AI Integration |
-| 💼 **Status** | Open for Freelance |
+| 🎮 **Off hours** | Gaming · Football · Badminton |
+| 🚀 **Status** | Open for Freelance |
 | 📍 **Based in** | Vietnam 🇻🇳 |
-| ⚽ **Hobbies** | Thể thao · Đá bóng · Cầu lông |
 | 📬 **Contact** | it.sonnb@gmail.com |
-
-</div>
-
-<div align="center">
-
-```
-💡 Multi-domain developer — từ e-commerce đến AI integration.
-   Nhận task khó, ship nhanh, không bỏ cuộc.
-```
 
 </div>
 
@@ -67,15 +59,15 @@
 
 ---
 
-## ⚽ When I'm Not Coding
+## 🎮 Beyond the Code
 
 <div align="center">
 
-![Football](https://img.shields.io/badge/⚽%20Football-Bóng%20đá-1a7f37?style=for-the-badge)
-![Badminton](https://img.shields.io/badge/🏸%20Badminton-Cầu%20lông-0066cc?style=for-the-badge)
-![Sports](https://img.shields.io/badge/🏃%20Sports-Thể%20thao-e05d2a?style=for-the-badge)
+![Gaming](https://img.shields.io/badge/🎮%20Gaming-Player%20One-7c3aed?style=for-the-badge)
+![Football](https://img.shields.io/badge/⚽%20Football-Always%20Ready-1a7f37?style=for-the-badge)
+![Badminton](https://img.shields.io/badge/🏸%20Badminton-On%20Court-0066cc?style=for-the-badge)
 
-*Chơi thể thao để nạp năng lượng — rồi quay lại code tiếp* 😄
+*Recharge on the court, then come back stronger.*
 
 </div>
 
