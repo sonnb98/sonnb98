@@ -81,7 +81,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sonnb98&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonnb98&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
