@@ -75,7 +75,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sonnb98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sonnb98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnb98&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
